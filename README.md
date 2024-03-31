@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Porchilai</h1>
 <h3 align="center">A passionate Software Tester from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tporchilai" alt="tporchilai" /></a> </p>
-
 - 📫 How to reach me **tporchilai@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
