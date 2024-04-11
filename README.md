@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Porchilai</h1>
 <h3 align="center">A passionate Software Tester from India</h3>
 
+- 🔭 I’m currently working on **Selenium Projects**
+
+- 🌱 I’m currently learning Automation, **Frameworks course, Core JAVA**
+
 - 📫 How to reach me **tporchilai@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
